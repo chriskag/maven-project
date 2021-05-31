@@ -1,9 +1,6 @@
 package com.example;
 
-/** 
-*@HelloClass 
-*
-*/
+
 public int checkReturnTag(final int aTagIndex,
                           JavadocTag[] aTags,
                           int aLineNo)
