@@ -1,9 +1,7 @@
 package com.example;
 
 
-public int checkReturnTag(final int aTagIndex,
-                          JavadocTag[] aTags,
-                          int aLineNo)
+
 public class Greeter {
 
   
